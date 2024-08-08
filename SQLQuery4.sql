@@ -1,0 +1,1 @@
+select brand_name as Brand from production.brands
